@@ -11,6 +11,8 @@ NetShare Pro is an open-source SOCKS5 and HTTP Proxy solution that allows you to
 It creates a secure SOCKS5/HTTP proxy server in the background on your mobile device and prevents unauthorized access using a special encryption (PIN code) method.
 
 ### 📥 Download (Ready to Use)
+> **Having issues downloading or installing?** Check the alternative installers at the very bottom of this page.
+
 You don't need to build from source! You can download the ready-to-use application files directly from the **Releases** page:
 
 * 📱 **Android APK:** [Download NetSharePro.apk](https://github.com/ysf-06/NetSharePro/releases/latest)
@@ -36,6 +38,8 @@ NetShare Pro, root gerektirmeden Wi-Fi üzerinden internetinizi ve VPN bağlant�
 Mobil cihazınızda arka planda çalışan bir SOCKS5/HTTP proxy sunucusu oluşturarak bağlantıyı paylaştırır ve özel bir şifreleme (PIN kodu) kullanarak dışarıdan izinsiz erişimleri engeller.
 
 ### 📥 İndir (Hazır Kurulum)
+> **İndirme veya ZIP çıkarma sorunu mu yaşıyorsunuz?** Alternatif direkt indirme (Setup.exe) dosyaları için sayfanın en altına göz atın.
+
 Kodlarla uğraşmanıza gerek yok! Uygulamanın çalışmaya hazır hallerini **Releases** sayfasından tek tıkla indirebilirsiniz:
 
 * 📱 **Android APK:** [NetSharePro.apk İndir](https://github.com/ysf-06/NetSharePro/releases/latest)
@@ -74,3 +78,16 @@ Eğer telefonunuzda **"Gelişmiş Koruma" (Advanced Protection)** aktifse ve tar
 4. Çıkarttığınız klasördeki **`Kurulum.bat`** dosyasına çift tıklayın.
 5. Telefonunuzun ekranında çıkan "Bu bilgisayara izin verilsin mi?" sorusuna **İzin Ver** deyin.
 6. Kurulum aracı tüm engelleri aşarak uygulamayı telefonunuza saniyeler içinde kuracaktır!
+
+
+---
+
+## 🛠 Alternative Windows Installation (Setup.exe) / Windows İçin Alternatif Kurulum (Setup.exe)
+
+If you have issues extracting the ZIP file or setting up the Windows client, you can use the automated Setup executable.
+
+(Tıpkı Android'deki kurulum aracı gibi, eğer Windows'ta ZIP dosyasını çıkarmak veya kurmakla uğraşmak istemiyorsanız direkt bu Setup dosyasını indirebilirsiniz.)
+
+1. Download / İndir: [NetSharePro_Setup.exe](https://github.com/ysf-06/NetSharePro/raw/main/Releases/NetSharePro_Setup.exe)
+2. Run the executable. It will automatically extract the files and place a NetSharePro shortcut on your Desktop!
+3. (Eğer Windows Defender uyarı verirse, 'Ek Bilgi' > 'Yine de çalıştır' diyerek devam edebilirsiniz.)
