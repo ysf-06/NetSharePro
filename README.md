@@ -53,4 +53,8 @@ Kodlarla uğraşmanıza gerek yok! Uygulamanın çalışmaya hazır hallerini **
 * **Kill-Switch (Zırhlı Ağ Kilidi):** PC istemcisinde bağlantı koptuğu an internet akışını tamamen keserek verinizin doğrudan farklı bir yerden çıkmasını engeller.
 
 ## 📝 Lisans / License
-Bu proje MIT lisansı altında açık kaynak olarak paylaşılmıştır. / This project is open-source under the MIT license.
+© 2026 Yusuf. Tüm Hakları Saklıdır. / All Rights Reserved.
+
+Bu uygulamanın kaynak kodlarının, tasarımının veya derlenmiş dosyalarının kopyalanması, değiştirilmesi, başka bir isimle yayınlanması veya ticari/bireysel amaçlarla izinsiz dağıtılması kesinlikle yasaktır.
+
+*The copying, modification, redistribution, or unauthorized use of this application's source code, design, or compiled binaries under any other name for commercial or personal purposes is strictly prohibited.*
