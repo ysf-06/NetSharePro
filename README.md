@@ -13,8 +13,8 @@ It creates a secure SOCKS5/HTTP proxy server in the background on your mobile de
 ### 📥 Download (Ready to Use)
 You don't need to build from source! You can download the ready-to-use application files directly from the **Releases** page:
 
-* 📱 **Android APK:** [Download NetSharePro.apk](https://github.com/USERNAME/NetSharePro/releases/latest)
-* 💻 **Windows Client:** [Download NetSharePro-Windows.zip](https://github.com/USERNAME/NetSharePro/releases/latest)
+* 📱 **Android APK:** [Download NetSharePro.apk](https://github.com/ysf-06/NetSharePro/releases/latest)
+* 💻 **Windows Client:** [Download NetSharePro-Windows.zip](https://github.com/ysf-06/NetSharePro/releases/latest)
 
 > **Note:** To download, click the link above, go to the latest release, and download the `.apk` and `.zip` files from the "Assets" section. Extract the Windows ZIP to a folder and run `wifi_tether_client.exe`.
 
@@ -38,8 +38,8 @@ Mobil cihazınızda arka planda çalışan bir SOCKS5/HTTP proxy sunucusu oluşt
 ### 📥 İndir (Hazır Kurulum)
 Kodlarla uğraşmanıza gerek yok! Uygulamanın çalışmaya hazır hallerini **Releases** sayfasından tek tıkla indirebilirsiniz:
 
-* 📱 **Android APK:** [NetSharePro.apk İndir](https://github.com/USERNAME/NetSharePro/releases/latest)
-* 💻 **Windows İstemcisi:** [NetSharePro-Windows.zip İndir](https://github.com/USERNAME/NetSharePro/releases/latest)
+* 📱 **Android APK:** [NetSharePro.apk İndir](https://github.com/ysf-06/NetSharePro/releases/latest)
+* 💻 **Windows İstemcisi:** [NetSharePro-Windows.zip İndir](https://github.com/ysf-06/NetSharePro/releases/latest)
 
 > **Not:** İndirmek için üstteki bağlantıya tıklayın, açılan sayfada "Assets" bölümünden `.apk` ve `.zip` dosyalarını indirin. Windows için ZIP dosyasını klasöre çıkartıp `wifi_tether_client.exe` dosyasını çalıştırmanız yeterlidir.
 
