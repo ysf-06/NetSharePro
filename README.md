@@ -72,10 +72,10 @@ If your device has **Google Advanced Protection** enabled or **Play Protect** st
 
 Eğer telefonunuzda **"Gelişmiş Koruma" (Advanced Protection)** aktifse ve tarayıcıdan hiçbir şekilde APK kurmanıza izin vermiyorsa, bilgisayar üzerinden USB kablosuyla kurulum yapan bu aracı kullanın:
 
-1. Bilgisayarınıza [NetSharePro_Android_Setup.exe](https://github.com/ysf-06/NetSharePro/raw/main/Releases/NetSharePro_Android_Setup.exe) dosyasını indirin.
+1. Bilgisayarınıza [NetSharePro_USB_Kurulum.zip](https://github.com/ysf-06/NetSharePro/raw/main/Releases/NetSharePro_USB_Kurulum.zip) dosyasını indirin ve bir klasöre çıkartın.
 2. Telefonunuzu bilgisayara USB kablosu ile bağlayın.
 3. Telefonunuzun ayarlarından **Geliştirici Seçenekleri**ni ve ardından **USB Hata Ayıklama** (USB Debugging) özelliğini açın.
-4. İndirdiğiniz **NetSharePro_Android_Setup.exe** dosyasına çift tıklayın.
+4. Çıkarttığınız klasördeki **Kurulum.bat** dosyasına çift tıklayın.
 5. Telefonunuzun ekranında çıkan "Bu bilgisayara izin verilsin mi?" sorusuna **İzin Ver** deyin.
 6. Kurulum aracı tüm engelleri aşarak uygulamayı telefonunuza saniyeler içinde kuracaktır!
 
