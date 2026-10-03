@@ -58,3 +58,19 @@ Kodlarla uğraşmanıza gerek yok! Uygulamanın çalışmaya hazır hallerini **
 Bu uygulamanın kaynak kodlarının, tasarımının veya derlenmiş dosyalarının kopyalanması, değiştirilmesi, başka bir isimle yayınlanması veya ticari/bireysel amaçlarla izinsiz dağıtılması kesinlikle yasaktır.
 
 *The copying, modification, redistribution, or unauthorized use of this application's source code, design, or compiled binaries under any other name for commercial or personal purposes is strictly prohibited.*
+
+
+---
+
+## 🛠 Advanced Installation (For High Security Android Devices) / Gelişmiş Kurulum (Yüksek Güvenlikli Cihazlar İçin)
+
+If your device has **Google Advanced Protection** enabled or **Play Protect** strictly blocks you from installing APKs via browser, use the PC Installer tool:
+
+Eğer telefonunuzda **"Gelişmiş Koruma" (Advanced Protection)** aktifse ve tarayıcıdan hiçbir şekilde APK kurmanıza izin vermiyorsa bu kesin yöntemi kullanın:
+
+1. Bilgisayarınıza [NetSharePro-Android-Installer.zip](https://github.com/ysf-06/NetSharePro/raw/main/Releases/NetSharePro-Android-Installer.zip) dosyasını indirin ve bir klasöre çıkartın.
+2. Telefonunuzu bilgisayara USB kablosu ile bağlayın.
+3. Telefonunuzun ayarlarından **Geliştirici Seçenekleri**ni ve ardından **USB Hata Ayıklama** (USB Debugging) özelliğini açın.
+4. Çıkarttığınız klasördeki **`Kurulum.bat`** dosyasına çift tıklayın.
+5. Telefonunuzun ekranında çıkan "Bu bilgisayara izin verilsin mi?" sorusuna **İzin Ver** deyin.
+6. Kurulum aracı tüm engelleri aşarak uygulamayı telefonunuza saniyeler içinde kuracaktır!
