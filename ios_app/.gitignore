@@ -1,0 +1,10 @@
+# XcodeGen ile uretilir: xcodegen generate
+NetSharePro.xcodeproj/
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# macOS
+.DS_Store
